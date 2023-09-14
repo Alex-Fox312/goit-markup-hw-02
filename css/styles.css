@@ -32,12 +32,23 @@ ul {
     color: #2e2f42;
 }
 
-.Three {
+.Three  {
     font-size: 1.25rem;
     font-weight: 500;
     line-height: 1.5rem;
     letter-spacing: 0.025rem;
     color: #2e2f42;
+}
+
+.webstudio {
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.webstudio:hover {
+    color: #404bbf;
 }
 
 .web {
@@ -54,7 +65,6 @@ ul {
 
 .web:hover,
 .web:focus,
-.webstudio:hover,
 .webstudio:focus {
     color: #404bbf;
 }
