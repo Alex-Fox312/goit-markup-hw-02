@@ -52,7 +52,9 @@ ul {
 }
 
 .web:hover,
-.web:focus {
+.web:focus,
+.webstudio:hover,
+.webstudio:focus {
     color: #404bbf;
 }
 
