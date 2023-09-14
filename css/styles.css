@@ -12,7 +12,7 @@ ul {
     list-style: none;
 }
 
-.h1-text {
+.h1h {
     color: var(--WHITE, #FFF);
     font-size: 3.5rem;
     font-weight: 700;
@@ -28,6 +28,7 @@ ul {
     text-align: center;
     line-height: 1.11;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .h3h {
@@ -35,16 +36,19 @@ ul {
     font-weight: 500;
     line-height: 1.5rem;
     letter-spacing: 0.025rem;
+    color: #2e2f42;
 }
 
 .web {
     color: var(--IRIS, #4D5AE5);
     font-family: "Raleway", sans-serif;
-    font-size: 1.17rem;
+    font-size: 18px;
     font-weight: 700;
     line-height: 1.3125rem;
     letter-spacing: 0.03375rem;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
 }
 
 .web:hover,
@@ -55,14 +59,16 @@ ul {
 .studio {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: "Raleway", sans-serif;
-    font-size: 1.17rem;
+    font-size: 18px;
     font-weight: 700;
     line-height: 1.3125rem;
     letter-spacing: 0.03375rem;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
 }
 
-.menu li a {
+.punkt {
     color: var(--NAVY-BLUE, #2E2F42);
     font-size: 1rem;
     font-weight: 500;
@@ -100,6 +106,7 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
 }
 
 .button:hover,
