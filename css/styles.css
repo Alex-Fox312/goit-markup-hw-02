@@ -112,10 +112,6 @@ ul {
     background-color: #404BBF;
 }
 
-.inform li {
-    width: 16.5rem;
-}
-
 .inform-p {
     color: var(--SLATE, #434455);
     font-size: 1rem;
@@ -135,10 +131,6 @@ ul {
 
 .team-li {
     background-color: #FFFFFF;
-}
-
-.portfolio img {
-    width: 360;
 }
 
 .footer {
