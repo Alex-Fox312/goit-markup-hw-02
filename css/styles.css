@@ -12,7 +12,6 @@ ul {
     list-style: none;
 }
 
-
 .h1-text {
     color: var(--WHITE, #FFF);
     font-size: 3.5rem;
@@ -41,7 +40,7 @@ ul {
 .web {
     color: var(--IRIS, #4D5AE5);
     font-family: "Raleway", sans-serif;
-    font-size: 1.17;
+    font-size: 1.17rem;
     font-weight: 700;
     line-height: 1.3125rem;
     letter-spacing: 0.03375rem;
@@ -56,7 +55,7 @@ ul {
 .studio {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: "Raleway", sans-serif;
-    font-size: 1.17;
+    font-size: 1.17rem;
     font-weight: 700;
     line-height: 1.3125rem;
     letter-spacing: 0.03375rem;
@@ -76,7 +75,7 @@ ul {
     font-size: 16px;
     font-weight: 700;
     line-height: 1.5;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
 }
 
 .contact:hover,
@@ -87,10 +86,6 @@ ul {
 .contact_block {
     font-style: normal;
 }
-
-/* end header*/
-
-/** main **/
 
 .preview {
     background: var(--NAVY-BLUE, #2E2F42);
@@ -126,7 +121,7 @@ ul {
 }
 
 .team {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 
 .team-li {
